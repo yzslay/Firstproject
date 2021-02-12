@@ -5,4 +5,5 @@ Try to get some idea first.
 2. scrapping man picture for line bot ?
 3. Machine learning for risk management? 
 4. boardgame test tool 
+5. Feed ant time calculate 
 
