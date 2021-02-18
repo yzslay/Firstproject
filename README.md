@@ -6,4 +6,5 @@ Try to get some idea first.
 3. Machine learning for risk management? 
 4. boardgame test tool 
 5. Feed ant time calculate 
+6. sending email, for template html5, easy to use anytime in future
 
